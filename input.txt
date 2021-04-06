@@ -1,0 +1,18 @@
+#include <stdio.h>
+int main ( )
+{
+
+ int     x =     10;
+int     y			 =     10;
+ total     = x          +     y;
+
+ printf("%d",sum);
+
+
+//hello this is a line comment
+//hello this is another line comment
+ return      0;
+
+
+
+}
